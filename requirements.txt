@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+google-generativeai
+SpeechRecognition
+gtts
+googletrans==4.0.0-rc1
